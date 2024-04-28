@@ -1,2 +1,2 @@
 # demand-forecasting
-This Jupyter notebook implements a Bayesian modeling techniques to fit a posterior and forecast demand for e-commerce company.
+This Jupyter Notebook implements Bayesian modeling techniques to fit a posterior distribution and forecast demand for an e-commerce company.
